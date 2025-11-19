@@ -1,0 +1,11 @@
+*.unit_test.py
+venv/
+
+# Ignore local environment file
+.env
+
+# Explicitly ignore the project unit test file
+unit_test.py
+
+documents/*.pdf
+

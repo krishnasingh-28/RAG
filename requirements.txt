@@ -1,0 +1,9 @@
+pinecone[grpc]
+langchain
+langchain-core
+langchain-community
+langchain-pinecone
+pypdf
+python-dotenv
+langchain-openai
+openai
